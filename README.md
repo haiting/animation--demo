@@ -1,2 +1,2 @@
-# animation--demo
-browser animation demo
+# animation-demo-vue
+browser animation demo by vue
